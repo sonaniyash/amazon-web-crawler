@@ -1,0 +1,32 @@
+****************** MYSQL *******************
+
+Host - amazon-crawling.credoovwjo4v.us-east-1.rds.amazonaws.com
+Username - admin
+Password - Amazon123456
+Port - 3306
+Database - amazon
+
+
+*******************  API List **************************
+
+
+endpoints:
+  Get Amaon Best Seller Link  crawaling URL - https://4je81wcxlb.execute-api.us-east-1.amazonaws.com/dev/getAmazonData
+  GET Aamazon keyword based crawaling URL - https://4je81wcxlb.execute-api.us-east-1.amazonaws.com/dev/getAmazonKeywordData
+
+
+
+*******************  AWS Credential **************************
+
+email - amazon-bandwidth@protonmail.com
+password - Qhrhvk12#$
+
+aws_access_key_id = AKIAVRTNF7POPVRXJXU4
+aws_secret_access_key = 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
+
+
+************************ EC2 Ubuntu **************************
+http://18.234.253.123:3001/get-product
+http://18.234.253.123:3001/crawling
+
+http://toptechbestcool.com/api/get-product
